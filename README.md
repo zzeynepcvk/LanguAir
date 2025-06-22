@@ -27,10 +27,10 @@ Detaylar için → [INSTALLATION.md](INSTALLATION.md)
 Kullanım detayları için → [USER_MANUAL.md](USER_MANUAL.md)
 
 ## 🖼 Ekran Görüntüleri
-Tüm ekranlar için → `/screenshots/`
+Tüm ekranlar için → https://github.com/zzeynepcvk/LanguAir/tree/main/screenshots
 
 ## 🎥 Demo Videosu
-YouTube bağlantısı: [https://youtu.be/demo-link-buraya](https://youtu.be/demo-link-buraya)
+YouTube bağlantısı: https://youtu.be/mlE8DcUwB_c
 
 ## ✅ AR Özellikleri
 - RealityKit ile model etkileşimi (döndürme, yakınlaştırma)
