@@ -36,3 +36,17 @@ YouTube bağlantısı: https://youtu.be/mlE8DcUwB_c
 - RealityKit ile model etkileşimi (döndürme, yakınlaştırma)
 - Model altına yazı etiketleri
 - Her soruda model değişimi
+
+## Not:
+-Bu proje, iOS tabanlı artırılmış gerçeklik (AR) uygulaması olarak geliştirilmiştir.
+Uygulama, Apple'ın ARKit ve RealityKit teknolojileri kullanılarak Swift ve SwiftUI ile yazılmıştır. Bu teknolojiler yalnızca iOS cihazlarda çalıştığı için Android işletim sistemleriyle uyumlu değildir.
+
+ARKit → Sadece Apple cihazlarında çalışır
+
+RealityKit → Android tarafında desteklenmez
+
+Xcode → Sadece macOS üzerinde çalışır
+
+Swift tabanlı AR uygulamaları → Android’e doğrudan çevrilemez
+
+Eğer projeyi kendi macOS bilgisayarınızda çalıştırırsanız uyumlu cihazınızda bir uygulama iconu göreceksiniz 
